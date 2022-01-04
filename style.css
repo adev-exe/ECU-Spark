@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro&family=Spline+Sans&display=swap');
+*{
+    color: rgb(0, 0, 0);
+    font-family: 'Source Sans Pro', sans-serif;
+    font-family: 'Spline Sans', sans-serif;
+}
+
+
+/* .navbar-custom {
+    background-color: rgb(250, 255, 208);
+    color: rgb(0, 0, 0);
+}
+ 
+.navbar-custom .navbar-brand,
+.navbar-custom .navbar-text,
+.navbar-collapse, .navbar-brand  {
+    color: rgb(0, 0, 0);
+} */
+
+
+.welcome-msg{
+    background-color: rgb(255, 197, 250)
+}
+
+
+.about-container{
+    background-color: rgb(205, 193, 250);
+
+}
+
+.sponsors{
+    background-color: rgb(182, 236, 193);
+}
+
+
+.red-box{
+    background-color: red;
+    color:azure;
+}
